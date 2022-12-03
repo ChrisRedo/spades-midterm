@@ -1,0 +1,138 @@
+.salOf_spades{
+    margin-left: -8px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    background-image: url('/Haircut Background 1.png');
+    width: 1440px;
+    height: 1100px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.navBar{
+
+    background-color: black;
+    height: 69px;
+    display: flex;
+    color: white;
+
+}
+
+.logoContainer{
+
+    width: 280px;
+
+
+}
+
+.navBar div{
+
+    display: flex;
+
+}
+
+.navBar img{
+
+    width: 93px;
+    height: 69px;
+
+}
+
+.navBar h1{
+
+    font-size: 35px;
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    cursor: pointer;
+    transition: font-size 0.5s;
+
+}
+
+.navBar h1:hover{
+
+    text-decoration: underline;
+    
+}
+
+.buttonContainer{
+
+    width: 1060px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 100px;
+    padding-bottom: 5px;
+    gap: 92px; 
+
+}
+
+.button{
+
+    background-color: #0000;
+    border: #0000;
+    color: white;
+    font-family: 'Card Characters';
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    text-decoration: none;
+    transition: font-size 0.5s;
+
+}
+
+.button:hover {
+
+    text-decoration: underline;
+    font-size: 25px;
+
+}
+
+.Haircuts{
+
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height:1000px;
+
+}
+
+.imgContainer{
+
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.Haircuts h3{
+
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    width: 1440px;
+    margin-top: -160px;
+
+}
+
+.Haircuts p{
+
+    margin-top: -180px;
+    width: 1335px;
+    height: 172PX;
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+}

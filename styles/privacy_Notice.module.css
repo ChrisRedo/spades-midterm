@@ -1,0 +1,128 @@
+.salOf_spades{
+    margin-left: -8px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    font-family: 'Card Characters';
+    width: 1440px;
+    height: 5720px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: black;
+    
+}
+
+.navBar{
+
+    background-color: white;
+    height: 69px;
+    width: 1440px;
+    display: flex;
+    color: white;
+
+}
+
+.logoContainer{
+
+    width: 280px;
+
+
+}
+.navBar div{
+
+    display: flex;
+
+}
+
+.navBar img{
+
+    width: 93px;
+    height: 69px;
+
+}
+
+.navBar h1{
+
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    cursor: pointer;
+    color: black;
+    transition: font-size 0.5s;
+
+}
+.navBar h1:hover{
+
+    text-decoration: underline;
+    
+}
+
+.buttonContainer{
+
+    width: 1060px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 100px;
+    padding-bottom: 5px;
+    gap: 92px; 
+
+}
+
+.button{
+
+    background-color: #0000;
+    border: #0000;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    text-decoration: none;
+    transition: font-size 0.5s;
+
+}
+
+.button:hover {
+
+    text-decoration: underline;
+    font-size: 25px;
+
+}
+.privacyNotice{
+
+    width: 1440px;
+    height: 172px;
+    background: url("/Logo Small BW 1.png"), url("/Logo Privacy Notice Background.png");
+    background-position: top -50px left 600px, top, top;
+    background-repeat: no-repeat, no-repeat;
+    display: flex;
+    margin-top: -2826px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.privacyNotice h1{
+
+    width: 656px;
+    height: 58px;
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: black;
+    margin-top: 60px;
+}
+
+.content{
+    color:white;
+    font-size: 15px;
+    top: 294px;
+    left: 106px;
+    width: 1188px;
+    height: 2602px ;
+    position: absolute;
+}
+

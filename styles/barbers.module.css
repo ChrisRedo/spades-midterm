@@ -1,0 +1,197 @@
+.salOf_spades{
+    margin-left: -8px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    background-image: url('/Barber Background 1.png');
+    width: 1440px;
+    height: 1702px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Card Characters';
+    
+}
+
+.navBar{
+
+    background-color: black;
+    height: 69px;
+    display: flex;
+    color: white;
+
+}
+
+
+.navBar div{
+
+    display: flex;
+
+}
+
+.navBar h1{
+
+    font-size: 35px;
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    cursor: pointer;
+
+}
+.navBar h1:hover{
+
+    text-decoration: underline;
+    
+}
+
+.navBar img{
+
+    width: 93px;
+    height: 69px;
+    
+}
+
+.buttonContainer{
+
+    width: 1060px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 100px;
+    padding-bottom: 5px;
+    gap: 92px; 
+
+}
+
+.button{
+
+
+    background-color: #0000;
+    border: #0000;
+    color: white;
+    font-family: 'Card Characters';
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    text-decoration: none;
+    transition: font-size 0.5s;
+
+}
+
+.button:hover {
+
+    text-decoration: underline;
+    font-size: 25px;
+
+}
+
+
+.barbers{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.barbers h1{
+    position: absolute;
+    top: 70px;
+    left: 303px;
+    font-family: 'Card Characters';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+    color: white;
+
+}
+
+.jem{
+    position: absolute;
+    top: 257px;
+    left: 19px;
+}
+
+.jemDesc h2{
+    position: absolute;
+    top: 0px;
+    left: 303px;
+    font-size: 60px;
+    color: white;
+}
+
+.jemDesc p{
+    position: absolute;
+    width: 1073px;
+    top: 120px;
+    left: 303px;
+    font-size: 26px;
+    color: white;   
+}
+
+.chris{
+    position: absolute;
+    top: 595px;
+    left: 1092px;
+}
+
+.chrisDesc h2{
+    position: absolute;
+    top: -30px;
+    left: -180px;
+    font-size: 60px;
+    color: white;
+}
+
+.chrisDesc p{
+    position: absolute;
+    width: 1039px;
+    top: 120px;
+    left: -1040px;
+    font-size: 26px;
+    color: white;   
+}
+
+.jiro{
+    position: absolute;
+    top: 933px;
+    left: 19px;
+}
+
+.jiroDesc h2{
+    position: absolute;
+    top: 0px;
+    left: 303px;
+    font-size: 60px;
+}
+
+.jiroDesc p{
+    position: absolute;
+    width: 1090px;
+    top: 120px;
+    left: 303px;
+    font-size: 26px; 
+}
+
+.fritz{
+    position: absolute;
+    top: 1271px;
+    left: 1092px;
+}
+
+.fritzDesc h2{
+    position: absolute;
+    top: -30px;
+    left: -180px;
+    font-size: 60px;
+}
+
+.fritzDesc p{
+    position: absolute;
+    width: 1022px;
+    top: 120px;
+    left: -1040px;
+    font-size: 26px;
+}
