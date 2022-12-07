@@ -38,7 +38,7 @@ export default function Button() {
                           <img src="Gwen 10.png"></img>
                           <img src="Hope by Hope.png"></img>
                         </div>
-                        <h3> SPECIALTY HARICUTS </h3>
+                        <h3> SPECIALTY HAIRCUTS </h3>
                         <p>
                         Salon of Spades is capable of any haircuts you desire, just input what you like or tell it to them on person. the following are the specialty haircuts that our barbers are famous for.
                         </p>
